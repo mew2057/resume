@@ -57,7 +57,8 @@ Projects
 Publications
 ============
 
-**`POWER8 High-performance Computing Guide IBM Power System S822LC (8335-GTB) Edition`_** - *(2017)*
+**POWER8 High-performance Computing Guide IBM Power System S822LC (8335-GTB) Edition** - *(2017)* - `Link 
+<https://www.redbooks.ibm.com/redbooks/pdfs/sg248371.pdf>`_
 
 Education
 =========
@@ -70,4 +71,3 @@ Education
 .. Links
 .. _IBM CAST: https://github.com/IBM/CAST
 .. _CORAL: https://asc.llnl.gov/coral-info
-.. _POWER8 High-performance Computing Guide IBM Power System S822LC (8335-GTB) Edition:https://www.redbooks.ibm.com/redbooks/pdfs/sg248371.pdf
