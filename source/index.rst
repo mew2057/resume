@@ -4,7 +4,7 @@ John Dunham
 Welcome to the user document for the software engineer `John Dunham`_. 
 John is a developer with a passion for user experience willing to tackle any challenge.
 
-The following documentation is designed to give a company looking to hire John (hiterto *user*)
+The following documentation is designed to give a company looking to hire John (herein *user*)
 an understanding of where John can fit into your team and a comprehensive exploration of 
 John's skillset.
 
