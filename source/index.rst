@@ -14,7 +14,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   resume.rst
+   resume/index.rst
 
 .. Links: 
 .. _John Dunham: http://johndunhamgames.com/
