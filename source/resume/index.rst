@@ -3,7 +3,7 @@ John Dunham
 
 *A Software Developer with a passion for user experience*
 
-john@johndunhamgames.com  | 1-845-309-5123
+john@johndunhamgames.com  | 
 
 Work Experience
 ===============
